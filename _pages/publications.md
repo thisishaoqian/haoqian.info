@@ -15,6 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+### 2022
+
+<b>[Flash Freezing Flash Boys: Countering Blockchain Front-Running](https://ieeexplore.ieee.org/document/9951166)</b> <br>
+<b>Haoqian Zhang</b>, Louis-Henri Merino, Vero Estrada-GaliÃśanes, and Bryan Ford. <a href="{{url}}/files/22-F3B-DINPS.pdf">PDF</a>. <br>
+DINPS2022
+
+
 ### 2020
 
 <b>[Economic Principles of PoPCoin, a Democratic Time-based Cryptocurrency](https://arxiv.org/abs/2011.01712)</b> <br>
