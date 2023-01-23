@@ -11,7 +11,7 @@ tags:
 On my recent trip to Senegal and Mauritania, I found that supermarkets and grocery stores open every day and close late, even during holidays. This observation reminds me of the convenient life back in China, where I could buy a snack at midnight. If this symbolizes social development and convenience, why do supermarkets close on Sundays and early on weekdays in developed western countries like Germany or Switzerland?
 
 <figure>
-<img src="{{url}}/images/blog/2023-01-28-early-closing-supermarket-auchan.jpeg" style="width:75%" align = "center">
+<img src="{{url}}/images/blog/2023-01-28-early-closing-supermarket-auchan.jpeg" style="width:100%">
 <figcaption align = "center"><b>Auchan supermarket in Dakar: open all year round from 8 am to midnight</b></figcaption>
 </figure>
 
