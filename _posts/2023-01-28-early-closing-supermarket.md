@@ -10,7 +10,7 @@ tags:
 
 On my recent trip to Senegal and Mauritania, I found that supermarkets and grocery stores open every day and close late, even during holidays. This observation reminds me of the convenient life back in China, where I could buy a snack at midnight. If this symbolizes social development and convenience, why do supermarkets close on Sundays and early on weekdays in developed western countries like Germany or Switzerland?
 
-![image info]({{url}}/images/blog/2023-01-28-early-closing-supermarket-auchan.jpeg)
+![Auchan]({{url}}/images/blog/2023-01-28-early-closing-supermarket-auchan.jpeg "Open all year round from 8 am to midnight")
 
 Closing on Sundays certainly has a religious reason that God has rested from all his work after creating the world on the seventh day. But this reason alone can not explain everything. Specifically, why do people in Senegal and Mauritania not need to have a day to worship God, yet people there are much more religious than in the western counties? Furthermore, why do not supermarkets in western countries extend the opening hour during the weekday?
 
