@@ -23,7 +23,7 @@ arXiv preprint
 
 <b>[Flash Freezing Flash Boys: Countering Blockchain Front-Running](https://ieeexplore.ieee.org/document/9951166)</b> <br>
 <b>Haoqian Zhang</b>, Louis-Henri Merino, Vero Estrada-GaliÃśanes, and Bryan Ford. <a href="{{url}}/files/22-F3B-DINPS.pdf">PDF</a>. <br>
-DINPS2022
+Decentralized Internet, Networks, Protocols, and Systems (DINPS 2022)
 
 ### 2020
 
