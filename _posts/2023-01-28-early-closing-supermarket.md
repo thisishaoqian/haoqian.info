@@ -1,7 +1,7 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'The early closing of supermarkets is a symbol of social development'
+date: 2023-01-28
+permalink: /posts/2023/01/early-closing-supermarket/
 tags:
   - cool posts
   - category1
