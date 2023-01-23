@@ -24,5 +24,5 @@ The second factor is the contract. In Switzerland, every worker has signed a wor
 
 If you are not working at the supermarket and yet the supermarket is open for a long time, it seems that you are benefiting the convenient life from the long opening time without losing anything. Well, most likely, you are not. The total services provided always equals the total services spent. If you are in a country where a supermarket closes late, it might indicate that you are in a society with a long working-hour culture. And you, or future you, might also need to work long hours to offer services to society. 
 
-In contrast, if you are in a country where the supermarkets close early, you might feel inconvenienced compared to other countries. Still, with some planning, you can buy everything within shorter opening hours and avoid Sundays. A bit of sacrifice of planning offers everyone a good work-life balance and resting Sundays like God. It is definitely worth it!
+In contrast, if you are in a country where the supermarkets close early, you might feel inconvenienced compared to other countries. Still, with some planning, you can buy everything within shorter opening hours and avoid Sundays. A bit of sacrifice by planning offers everyone a good work-life balance and resting Sundays like God. It is definitely worth it!
 
