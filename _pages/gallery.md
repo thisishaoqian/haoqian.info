@@ -1,10 +1,9 @@
 ---
-layout: collection
+layout: archive
 title: "Gallery"
 permalink: /gallery/
 author_profile: true
 entries_layout: grid
-collection: gallery
 ---
 
 {% if site.talkmap_link == true %}
@@ -13,6 +12,6 @@ collection: gallery
 
 {% endif %}
 
-{% for gallery in site.gallery reversed %}
+{% for talk in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
