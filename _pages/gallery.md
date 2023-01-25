@@ -5,6 +5,6 @@ permalink: /gallery/
 author_profile: true
 ---
 
-{% for talk in site.talks reversed %}
+{% for post in site.gallery reversed %}
   {% include archive-single.html %}
 {% endfor %}
