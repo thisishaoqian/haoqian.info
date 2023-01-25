@@ -12,6 +12,6 @@ entries_layout: grid
 
 {% endif %}
 
-{% for talk in site.talks reversed %}
+{% for gallery in site.gallery reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
