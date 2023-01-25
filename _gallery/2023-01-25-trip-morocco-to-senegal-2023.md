@@ -2,7 +2,7 @@
 title: "From Morocco to Senegal"
 excerpt: "Road trip from Morocco to Senegal"
 header:
-  teaser: ../images/gallery/2023-trip-barcelona/after-party.jpeg
+  teaser: ../images/gallery/2023-trip-morocco-to-senegal/mauritania-donkey.jpeg
 gallery:
   - url: ../images/gallery/2023-trip-morocco-to-senegal/morocco-trinity.jpeg
     image_path: ../images/gallery/2023-trip-morocco-to-senegal/morocco-trinity.jpeg
@@ -12,7 +12,7 @@ gallery:
     title: "A Donut"
   - url: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-swimming.jpeg
     image_path: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-swimming.jpeg
-    title: "Swimming pratice in a desert city"
+    title: "Swimming practice in a desert city"
   - url: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-swimming.jpeg
     image_path: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-desert-town.jpeg
     title: "A desert city"
