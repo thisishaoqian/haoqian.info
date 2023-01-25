@@ -1,6 +1,6 @@
 ---
 title: "Barcelona"
-excerpt: "Photos from the trip to Barcelona in 2023"
+excerpt: "Trip to Barcelona"
 header:
   teaser: ../images/gallery/2023-trip-barcelona/after-party.jpeg
 gallery:
