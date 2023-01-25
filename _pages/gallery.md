@@ -8,3 +8,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+{% for gallery in site.gallery reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
