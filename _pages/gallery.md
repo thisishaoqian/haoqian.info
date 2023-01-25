@@ -11,6 +11,6 @@ author_profile: true
 
 {% endif %}
 
-{% for gallery in site.gallery reversed %}
-  {% include archive-single-talk.html %}
+{% for photos in site.gallery reversed %}
+  {% include archive-single.html %}
 {% endfor %}
