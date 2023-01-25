@@ -3,6 +3,8 @@ layout: collection
 title: "Gallery"
 permalink: /gallery/
 author_profile: true
+entries_layout: grid
+collection: gallery
 ---
 
 {% if site.talkmap_link == true %}
@@ -11,6 +13,6 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% for gallery in site.gallery reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
