@@ -1,8 +1,9 @@
 ---
-layout: archive
-title: "gallery"
+layout: collection
+title: "Gallery"
 permalink: /gallery/
 author_profile: true
+entries_layout: grid
 ---
 
 {% if site.talkmap_link == true %}
