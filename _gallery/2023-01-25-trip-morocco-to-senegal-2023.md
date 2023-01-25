@@ -13,7 +13,7 @@ gallery:
   - url: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-swimming.jpeg
     image_path: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-swimming.jpeg
     title: "Swimming practice in a desert city"
-  - url: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-swimming.jpeg
+  - url: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-desert-town.jpeg
     image_path: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-desert-town.jpeg
     title: "A desert city"
   - url: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-world-end.jpeg
