@@ -45,4 +45,4 @@ gallery:
     title: "African Renaissance Monument, made in North Korea"    
 ---
 
-{% include gallery %}
+{% include gallery layout="half" %}
