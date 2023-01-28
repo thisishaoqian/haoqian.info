@@ -19,15 +19,15 @@ gallery:
   - url: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-fishing.jpeg
     image_path: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-fishing.jpeg
     title: "A Donut"
-  - url: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-world-end.jpeg
-    image_path: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-world-end.jpeg
-    title: "The World's End"
   - url: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-death.jpeg
     image_path: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-death.jpeg
     title: "The graveyard might be different in Sahara, but the end seems to be the same for everyone."
   - url: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-death-2.jpeg
     image_path: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-death-2.jpeg
     title: "The graveyard might be different in Sahara, but the end seems to be the same for everyone."
+  - url: ../images/gallery/2023-trip-morocco-to-senegal/senegal-food.jpeg
+    image_path: ../images/gallery/2023-trip-morocco-to-senegal/senegal-food.jpeg
+    title: "A day's worth of food for a child in Senegal"
   - url: ../images/gallery/2023-trip-morocco-to-senegal/mauritania-donkey-restaurant.jpeg
     image_path: ../images/gallery/2023-trip-morocco-to-senegal/mauritania-donkey-restaurant.jpeg
     title: "A restaurant"
@@ -37,12 +37,12 @@ gallery:
   - url: ../images/gallery/2023-trip-morocco-to-senegal/senegal-delivery.jpeg
     image_path: ../images/gallery/2023-trip-morocco-to-senegal/senegal-delivery.jpeg
     title: "City express delivery (同城急送)"
-  - url: ../images/gallery/2023-trip-morocco-to-senegal/senegal-food.jpeg
-    image_path: ../images/gallery/2023-trip-morocco-to-senegal/senegal-food.jpeg
-    title: "A day's worth of food for a child in Senegal"
   - url: ../images/gallery/2023-trip-morocco-to-senegal/senegal-renaissance.jpeg
     image_path: ../images/gallery/2023-trip-morocco-to-senegal/senegal-renaissance.jpeg
-    title: "African Renaissance Monument, made in North Korea"    
+    title: "African Renaissance Monument, made in North Korea"
+  - url: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-world-end.jpeg
+    image_path: ../images/gallery/2023-trip-morocco-to-senegal/western-sahara-world-end.jpeg
+    title: "The World's End"
 ---
 
 {% include gallery layout="single" %}
