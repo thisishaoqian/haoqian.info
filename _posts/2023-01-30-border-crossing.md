@@ -26,10 +26,6 @@ I crossed borders “illegally” twice. The first time is from Mauritania to We
 
 <figure>
 <img src="{{url}}/images/blog/2023-01-30-border-on-phone-1.jpeg" style="width:100%">
-<figcaption align = "center"><b>The only borderline I saw was some pixels forming a black line on my phone. </b></figcaption>
-</figure>
-
-<figure>
 <img src="{{url}}/images/blog/2023-01-30-border-on-phone-2.jpeg" style="width:100%">
 <figcaption align = "center"><b>The only borderline I saw was some pixels forming a black line on my phone. </b></figcaption>
 </figure>
