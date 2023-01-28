@@ -6,6 +6,7 @@ tags:
   - travel
   - economics
   - switzerland
+  - Africa
 ---
 
 On my recent trip to Senegal and Mauritania, I found that supermarkets and grocery stores open every day and close late, even during holidays. This observation reminds me of the convenient life back in China, where I could buy a snack at midnight. If this symbolizes social development and convenience, why do supermarkets close on Sundays and early on weekdays in developed European countries like Germany or Switzerland?
