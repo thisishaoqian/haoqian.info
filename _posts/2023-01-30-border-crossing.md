@@ -21,7 +21,7 @@ I crossed borders “illegally” twice. The first time is from Mauritania to We
 
 <figure>
 <img src="{{url}}/images/blog/2023-01-30-cow-must-be-weird.jpeg" style="width:100%">
-<figcaption align = "center"><b>Immediately after crossing the border into Mauritania, I found a cow watching me. She must be weird why I’m trying to cross the border as there is no border for her. </b></figcaption>
+<figcaption align = "center"><b>Immediately after crossing the border into Mauritania, I found a cow watching me. She must be weird why I was trying to cross the border as there is no border for her. </b></figcaption>
 </figure>
 
 <figure>
