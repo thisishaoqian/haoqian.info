@@ -8,11 +8,9 @@ tags:
   - border
 ---
 
-(Preliminary version)
-
 I love to observe the national border. At the national border, you may observe things suddenly change, such as religion, language, culture, habits, identity, and quality of life. I always wanted to cross the border illegally, but I am, by large, a rule-abiding person. On my recent trip to Africa, I finally had the chance to practice “illegal” border crossing without showing my identity to anyone to visit another country and back.
 
-I crossed borders “illegally” twice. The first time is from Mauritania to Western Sahara where controlled by Sahrawi Arab Democratic Republic (de facto controlled by nobody). And the second time is from Senegal to Mauritania. The “illegal” border crossing is amazingly smooth. Everything is normal, just like traveling in the same country. No border inspection or boundary stone can help me realize that I was crossing the border, except on the map of my phone with GPS real-time location and some pixels showing a black borderline.
+I crossed borders “illegally” twice. The first time is from Mauritania to Western Sahara where controlled by Sahrawi Arab Democratic Republic (de facto controlled by nobody). And the second time is from Senegal to Mauritania. The “illegal” border crossing is amazingly smooth. Everything is normal, just like traveling in the same country. No border inspection or boundary stone can help me realize that I was crossing the border, except on my phone's map with GPS real-time location and some pixels showing a black borderline.
 
 <figure>
 <img src="{{url}}/images/blog/2023-01-30-no-border-line.jpeg" style="width:100%">
