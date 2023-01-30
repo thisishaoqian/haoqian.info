@@ -56,7 +56,7 @@ Again, the system is similar to the modern metro system. Here is a map of Beijin
 
 ## Future work
 
-It is unclear how to provide safety to passengers, as nobody wears a safety belt. Even if they want (as we do), a shared taxi needs more safety belts for six passengers, if it has any. Furthermore, it needs to be clarified how to apply this efficient and environmentally friendly transportation system in developed countries. 
+It is unclear how to provide safety to passengers, as nobody wears a safety belt. Even if they want (as we do), a shared taxi needs more safety belts for six passengers, if it has any. Furthermore, it needs to be clarified how to apply this efficient and **environmentally friendly** transportation system in developed countries. 
 
 ## Acknowledgments
 
