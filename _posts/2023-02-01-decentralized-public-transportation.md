@@ -62,6 +62,6 @@ It is unclear how to provide safety to passengers, as nobody wears a safety belt
 
 This research was not supported by any grant or fund.
 
-[^1]: "We" use "we" as a convention in academic writing, even though this article has only one author.
+[^1]: "We" use "we" as a convention in academic writing, even though this article has only one author and I travel alone in this trip.
 
 [^2]: "We" use "they" as a convention in academic writing, but I have not seen a single female taxi driver in Nouakchott.
