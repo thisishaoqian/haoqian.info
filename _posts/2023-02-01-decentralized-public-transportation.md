@@ -51,7 +51,7 @@ Again, the system is similar to the modern metro system. Here is a map of Beijin
 1.	Low Cost: The price is low and affordable by locals.
 2.	Low Latency Overhead: Finding shared taxis to a correct destination is amazingly fast, as there are many taxis with two more places in each taxi. We rarely wait more than 3 mins. 
 3.	Price Flexibility: There is no listed price. The driver can tell the passengers if this trip would not use the conventional price (in the local language, of course).
-4.	Traffic Flexibility: If a driver finds out that another route is more profitable than the route they are operating now [^2], they can change to operate in the more profitable one immediately.
+4.	Traffic Flexibility: If a driver finds out that another route is more profitable than the route they [^2] are operating now, they can change to operate in the more profitable one immediately.
 5.	Decentralization: The local government or companies do not manage or control public transportation. It is decentralized and operated by each shared taxi driver. 
 
 ## Future work
