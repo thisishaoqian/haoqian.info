@@ -11,7 +11,7 @@ tags:
 (preliminary draft)
 
 
-In conventional wisdom, a local government or companies control and manage its city public transportation in centralized or federated fashions. In this blog, we[^1] introduce a decentralized public system without centralized control. This public transportation system achieves low cost and latency overhead with price and traffic flexibility that adapts to the complex and dynamic operating cost and traffic flow. Those features ensure that such a system is practical, efficient, and optimal to be deployed in a city of least developed and/or low-income countries. We demonstrate that it is possible to “design” a suitable city-wised public transportation system without any system designer.
+In conventional wisdom, a local government or companies control and manage its city public transportation in centralized or federated fashions. In this article, we[^1] introduce a decentralized public system without centralized control. This public transportation system achieves low cost and latency overhead with price and traffic flexibility that adapts to the complex and dynamic operating cost and traffic flow. Those features ensure that such a system is practical, efficient, and optimal to be deployed in a city of least developed and/or low-income countries. We demonstrate that it is possible to “design” a suitable city-wised public transportation system without any system designer.
 
 ## System Goals
 
@@ -62,4 +62,4 @@ It is unclear how to provide safety to passengers, as nobody wears a safety belt
 
 This research was not supported by any grant or fund.
 
-[^1]: This is the first footnote.
+[^1]: "We" use "we" as a convention in academic writing, even though this article has only one author.
