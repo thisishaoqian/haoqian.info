@@ -8,9 +8,6 @@ tags:
   - research
 ---
 
-(preliminary draft)
-
-
 In conventional wisdom, a local government or companies control and manage its city public transportation in centralized or federated fashions. In this paper, we [^1] introduce a decentralized public system without centralized control. This public transportation system achieves low cost and low latency overhead with price and traffic flexibility that can adapt to the complex and dynamic operating cost and traffic flow. Those features ensure that such a system is practical, efficient, and optimal to be deployed in a city of low-income developing countries. We demonstrate that it is possible to “design” a suitable city-wised public transportation system without any system designer.
 
 ## System Goals
@@ -32,7 +29,12 @@ We got off at an unknown place when we first arrived in Nouakchott and we knew t
 
 We searched the nearby area to find something famous to be the name of our destination. Suddenly we found a Carrefour. We were amazed that they have the Carrefour in Mauritania, as we had not seen a single Carrefour supermarket after we left Agadir in Morocco. However, we soon realized that this is not the supermarket Carrefour, but a real carrefour as a crossroad. The carrefour is named Aziz. As soon as we were confident enough to pronounce the name, we were ready to take a taxi to our destination.
 
-After a few failed tries, we soon realized that no taxi would take us to carrefour Aziz, which is too far (but only 7km). Instead, a local guy told us we should take a taxi first to carrefour of police routière, where we could take another taxi to carrefour Aziz. Soon, we found a taxi that took us to carrefour of police routière, and there we found another taxi to carrefour Aziz.
+After a few failed tries, we soon realized that no taxi would take us to carrefour Aziz, which is too far (but only 7km). Instead, a local guy told us we should take a taxi first to carrefour of police routière, where we could take another taxi to carrefour Aziz. Soon, we found a taxi that took us to carrefour of police routière, and there we found another taxi to carrefour Aziz. Figure 1 presents the detailed route.
+
+<figure>
+<img src="{{url}}/images/blog/2023-02-01-decentralized-public-transportation-1.jpeg" style="width:100%">
+<figcaption align = "center"><b>Figure 1: From nowhere (Point A) to somewhere (Point C) with a transit at carrefour of police routière (Point B)</b></figcaption>
+</figure>
 
 Unlike a real taxi, all taxis in Nouakchott are shared taxis, meaning one has to take the taxi with other passengers. As no shared taxis are heading toward carrefour Aziz directly from where we were (because it is not in the same direction), it is not surprising that we could not find any taxis initially. 
 
@@ -42,7 +44,12 @@ The system is similar to the modern metro system in that one may change lines mu
 
 ### Example Two: From Carrefour Aziz to Ouad Naga
 
-Ouad Naga is a small town with some camels 50 km from Nouakchott. We departed for this town at 6:30 am when it was still dark. Nevertheless, the public transportation system was operating. We first took a taxi ride from carrefour Aziz to carrefour Madrid and then took another taxi ride to Toujounine where we could transfer again to our final destination, Ouad Naga. The cost within the city limit is 10 MRU per person per ride, whereas the long intercity ride costs 50 MRU (1.35 USD as of Jan 2023).
+Ouad Naga is a small town with some camels 50 km from Nouakchott. We departed for this town at 6:30 am when it was still dark. Nevertheless, the public transportation system was operating. We first took a taxi ride from carrefour Aziz to carrefour Madrid and then took another taxi ride to Toujounine where we could transfer again to our final destination, Ouad Naga. The cost within the city limit is 10 MRU per person per ride, whereas the long intercity ride costs 50 MRU (1.35 USD as of Jan 2023). Figure 2 shows the detailed route.
+
+<figure>
+<img src="{{url}}/images/blog/2023-02-01-decentralized-public-transportation-2.jpeg" style="width:100%">
+<figcaption align = "center"><b>Figure 2: From carrefour Aziz (Point A) to Ouad Naga (Point D) with two transits at carrefour Madrid (Point B) and Toujounine (Point C)</b></figcaption>
+</figure>
 
 Again, the system is similar to the modern metro system. Here is a map of Beijing’s metro system…
 
