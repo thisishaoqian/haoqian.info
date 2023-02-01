@@ -33,7 +33,7 @@ After a few failed tries, we soon realized that no taxi would take us to carrefo
 
 <figure>
 <img src="{{url}}/images/blog/2023-02-01-decentralized-public-transportation-1.jpeg" style="width:100%">
-<figcaption align = "center"><b>Figure 1: From nowhere (Point A) to somewhere (Point C) with a transit at carrefour of police routière (Point B)</b></figcaption>
+<figcaption align = "center"><b>Figure 1: From nowhere (Point A) to somewhere (Point C) with one transit at carrefour of police routière (Point B)</b></figcaption>
 </figure>
 
 Unlike a real taxi, all taxis in Nouakchott are shared taxis, meaning one has to take the taxi with other passengers. As no shared taxis are heading toward carrefour Aziz directly from where we were (because it is not in the same direction), it is not surprising that we could not find any taxis initially. 
@@ -44,14 +44,18 @@ The system is similar to the modern metro system in that one may change lines mu
 
 ### Example Two: From Carrefour Aziz to Ouad Naga
 
-Ouad Naga is a small town with some camels 50 km from Nouakchott. We departed for this town at 6:30 am when it was still dark. Nevertheless, the public transportation system was operating. We first took a taxi ride from carrefour Aziz to carrefour Madrid and then took another taxi ride to Toujounine where we could transfer again to our final destination, Ouad Naga. The cost within the city limit is 10 MRU per person per ride, whereas the long intercity ride costs 50 MRU (1.35 USD as of Jan 2023). Figure 2 shows the detailed route.
+Ouad Naga is a small town with some camels 50 km from Nouakchott. We departed for this town at 6:30 am when it was still dark. Nevertheless, the public transportation system was operating. We first took a taxi ride from carrefour Aziz to carrefour Madrid and then took another taxi ride to Toujounine where we could transfer again to our final destination, Ouad Naga. The cost within the city limit is 10 MRU per person per ride, whereas the long intercity ride costs 50 MRU (1.35 USD as of Jan 2023). Figure 2 shows the detailed route, and Figure 3 presents the transit station in Toujounine: nearly every car serves as a shared taxi.
 
 <figure>
 <img src="{{url}}/images/blog/2023-02-01-decentralized-public-transportation-2.jpeg" style="width:100%">
 <figcaption align = "center"><b>Figure 2: From carrefour Aziz (Point A) to Ouad Naga (Point D) with two transits at carrefour Madrid (Point B) and Toujounine (Point C)</b></figcaption>
 </figure>
 
-Again, the system is similar to the modern metro system. Here is a map of Beijing’s metro system…
+<figure>
+<img src="{{url}}/images/blog/2023-02-01-decentralized-public-transportation-3.jpeg" style="width:100%">
+<figcaption align = "center"><b>Figure 3: Transit station in Toujounine: nearly every car serves as a shared taxi.</b></figcaption>
+</figure>
+
 
 ## Achieving the System Goals
 
