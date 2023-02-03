@@ -1,5 +1,5 @@
 ---
-title: 'God's dilemma'
+title: 'A dilemma of God'
 date: 2023-02-06
 permalink: /posts/2023/02/god-dilemma/
 tags:
