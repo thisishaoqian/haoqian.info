@@ -10,7 +10,7 @@ tags:
 
 (preliminary draft)
 
-It seems to be true that if God ever exists, his power is unlimited, or if he does not exist, simply believing in this imaginary God helps his followers to deal with difficulties and find the meaning of life. But does this almighty God, whether real or imaginary, ever encounter a dilemma? 
+It seems to be true that if God exists, his power is unlimited, or if he does not exist, simply believing in this imaginary God helps his followers to deal with difficulties and find the meaning of life. But does this almighty God, whether real or imaginary, ever encounter a dilemma? 
 
 On my recent trip to Africa, the most common word I heard is *Inshallah*, an Arabic expression of "if God wills" or "God willing." It means that what happens in the future is in God's will. It implies that we should not worry about the future, as everything is under the control of God. However, words like this only work if people believe in them deeply, and this belief typically needs practice and training for a long time. 
 
