@@ -27,12 +27,12 @@ Those unlucky talieès then have to earn money for their Daaras as well as food 
 
 <figure>
 <img src="{{url}}/images/blog/2023-02-06-god-dilemma-2.jpeg" style="width:100%">
-<figcaption align = "center"><b>A typical classroom where talibés study and sleep in Daara.</b></figcaption>
+<figcaption align = "center"><b>A typical classroom where talibés study and sleep in a Daara.</b></figcaption>
 </figure>
 
 <figure>
 <img src="{{url}}/images/blog/2023-02-06-god-dilemma-3.jpeg" style="width:100%">
-<figcaption align = "center"><b>Likely to be the only food a small talibé eats, provided by an NGO free of charge. They suffer constant hunger. </b></figcaption>
+<figcaption align = "center"><b>Likely to be the only food a small talibé eats in a day, provided by an NGO free of charge. They suffer constant hunger. </b></figcaption>
 </figure>
 
 <figure>
