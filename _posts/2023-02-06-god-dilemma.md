@@ -1,7 +1,7 @@
 ---
 title: 'God's dilemma'
 date: 2023-02-06
-permalink: /posts/2023/02/decentralized-public-transportation/
+permalink: /posts/2023/02/god-dilemma/
 tags:
   - travel
   - Africa
