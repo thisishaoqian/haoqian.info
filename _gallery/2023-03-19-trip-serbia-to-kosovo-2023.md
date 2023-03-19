@@ -21,4 +21,4 @@ gallery:
     title: "X"
 ---
 
-{% include gallery %}
+{% include gallery layout="half" %}
