@@ -6,19 +6,19 @@ header:
 gallery:
   - url: ../images/gallery/2023-trip-serbia-to-kosovo/cola.jpeg
     image_path: ../images/gallery/2023-trip-serbia-to-kosovo/cola.jpeg
-    title: "X"
+    title: "When communism meets capitalism"
   - url: ../images/gallery/2023-trip-serbia-to-kosovo/bazaar.jpeg
     image_path: ../images/gallery/2023-trip-serbia-to-kosovo/bazaar.jpeg
-    title: "X"
+    title: "Grand Bazaar in Pristina, Kosovo"
   - url: ../images/gallery/2023-trip-serbia-to-kosovo/conflict.jpeg
     image_path: ../images/gallery/2023-trip-serbia-to-kosovo/conflict.jpeg
-    title: "X"
+    title: "An abandoned orthodox church in the city center of Pristina, Kosovo"
   - url: ../images/gallery/2023-trip-serbia-to-kosovo/communism.jpeg
     image_path: ../images/gallery/2023-trip-serbia-to-kosovo/communism.jpeg
-    title: "X"
+    title: "When communism meets religion. It seems that religion is much more powerful in the long run."
   - url: ../images/gallery/2023-trip-serbia-to-kosovo/religion.jpeg
     image_path: ../images/gallery/2023-trip-serbia-to-kosovo/religion.jpeg
-    title: "X"
+    title: "When communism meets religion. It seems that religion is much more powerful in the long run."
 ---
 
 {% include gallery %}
