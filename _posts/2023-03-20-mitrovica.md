@@ -13,7 +13,7 @@ It is common to be true that the national heroes of one side are the national en
 
 To provide a brief background, Kosovo eventually declared its independence after the breakup of Yugoslavia. However, Serbia does not recognize Kosovo as an independent country and considers Kosovo as part of Serbia. To make matters worse, some Serbs live in Kosovo. Mitrovica is the border city of the two ethnic groups that are separated by a river: the north is dominated by Serbs, and the south is dominated by Albanians (the leading ethnic group of Kosovo).
 
-Mitrovica, thus, is usually the center of the conflict between Serbia and Kosovo. There are peacekeepers from NATO in Mitrovica all year round trying to separate them and calm any dispute. However, a tense atmosphere can happen from time to time. Three months ago, Kosovo Serbs blocked the road to the main border crossings towards Serbia in Mitrovica.
+Mitrovica, thus, is usually the center of the conflict between Serbia and Kosovo. There are peacekeepers from NATO in Mitrovica all year round trying to separate them and calm any dispute. However, a tense atmosphere can happen from time to time. Three months ago, Kosovo Serbs blocked the road to the main border crossings towards Serbia in Mitrovica[^1].
 
 Picture of peacekeepers.
 
@@ -23,3 +23,4 @@ Pictures.
 
 Different ethnic groups can live together peacefully, just like in Yugoslavia. But after so many deadly conflicts, how should they reconcile with their enemy? Stopping commemorating those national heroes can be the first step toward reconciliation. The national heroes rarely did something good for humanity; thus, from a broader human perspective, nothing is worth commemorating them.  
 
+[^1]: [Kosovo Serbs block road to main border crossings in volatile north.](https://www.theguardian.com/world/2022/dec/10/kosovo-serbs-block-road-to-major-border-crossings-in-volatile-north)
