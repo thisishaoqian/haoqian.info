@@ -27,4 +27,4 @@ author_profile: true
 ### 2021
 
 <b>[Towards Equal-Opportunity Cryptocurrencies](https://www.youtube.com/watch?v=0lCMFhR_Nrs&t=900s)</b> <br>
-<span style="color:black">[Basic Income Earth Network Congress](https://basicincome.org/bien-congress-2021/)</span>, August 2021, <i>Virtual</i>
+<span style="text-decorations:none; color:inherit;">[Basic Income Earth Network Congress](https://basicincome.org/bien-congress-2021/)</span>, August 2021, <i>Virtual</i>
