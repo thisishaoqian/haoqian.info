@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+### 2023
+
+<b>[Breaking Blockchain Rationality with Out-of-Band Collusion](https://arxiv.org/abs/2305.00554)</b> <br>
+<b>Haoqian Zhang</b>, Mahsa Bastankhah, Louis-Henri Merino, Vero Estrada-GaliÃśanes, and Bryan Ford. <a href="https://arxiv.org/abs/2305.00554">PDF</a>. <br>
+Workshop on Trusted Smart Contracts (WTSC 2023)
+
 ### 2022
 
 <b>[F3B: A Low-Overhead Blockchain Architecture with Per-Transaction Front-Running Protection](https://arxiv.org/abs/2205.08529)</b> <br>
