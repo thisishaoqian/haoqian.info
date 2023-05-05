@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2023
 
-<b>[Breaking Blockchain Rationality with Out-of-Band Collusion](https://fc23.ifca.ai/wtsc/)</b> <br>
+<b>[Breaking Blockchain Rationality with Out-of-Band Collusion]({{url}}/files/slides/2023-05-05-Rationality-WTSC.pdf)</b> <br>
 <a href="http://fc23.ifca.ai/wtsc/program.html" style="text-decoration:none; color:inherit;">Workshop on Trusted Smart Contracts (WTSC)</a>, May 2023, <i>Bol, Brač, Croatia</i>, <b>Forthcoming</b>
 
 <b>[Flash Freezing Flash Boys(F3B)]({{url}}/files/slides/2023-04-16-F3B-EthereumZurich.pdf)</b> <br>
