@@ -40,7 +40,7 @@ Please do not overkill, as it might also become common public knowledge for peop
 
 ## For People Living in an Authoritarian Regime:
 
-If you are not smart enough to know the rule of the game, you will never know that there is a better world.
+If you are not smart enough to know the rule of the game, you do not know that there is a better world.
 
 If you are smart enough to know the rule of the game, your destiny is to disguise. Your inner heart knows everything, but you must act like you support (or at most not against) the authoritarian regime. You will have to face such inconstancy constantly. But please be patient; your Messiah will come (either a revolutionary leader or common public knowledge) to call you. Good Luck!
 
