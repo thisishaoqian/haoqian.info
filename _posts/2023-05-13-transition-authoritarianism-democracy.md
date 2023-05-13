@@ -19,9 +19,9 @@ I am going to give a simple game theory analysis. I will use a game to model rea
 3. If fewer than t players are against the authoritarian regime, the transition will be failed, and players against the regime will receive a heavy penalty (perhaps many years in prison). In contrast, players supporting the regime remain unchanged (no penalty and reward).
 4. If equal or more than t players against the authoritarian regime, the transition will be succussed, and everyone (regardless of against or support) will receive a relatively small reward (because everybody now lives in a democratic regime)[^2].
 
-We can prove that each player supporting the regime is one Nash equilibrium (a stable state in which no one is incentivized to change their action). When each player supports the regime, if one player changes his action from support to against, he will receive a heavy penalty. Assuming everyone is rational, no single player would change his action. 
+We can prove that supporting the regime by all players is one Nash equilibrium (a stable state in which no one is incentivized to change their action). When each player supports the regime, if one player changes his action from support to against, he will receive a heavy penalty. Assuming everyone is rational, no single player would change his action. 
 
-Luckily, this is not the only Nash equilibrium of this game. If more than t players are against the government, it is also a (weak) Nash equilibrium. When more than t players are against the government, everybody receives a small reward, even though one player changes his mind from against to support.
+Luckily, this is not the only Nash equilibrium of this game. If more than t players are against the regime, it is also a (weak) Nash equilibrium. When more than t players are against the regime, everybody receives a small reward, even though one player changes his mind from against to support.
 
 But how can we transition from the bad equilibrium to the good one? It seems to be extremely difficult unless we have some external coordination. The key is to let more than t people change their actions altogether simultaneously to avoid heavy penalties for minorities. A leader could be the person to coordinate everyone's actions, but he is very likely to receive a heavy penalty from the authoritarian regime. Perhaps, a better solution is to use common public knowledge to coordinate, e.g., protesting every Sunday at 10 am.
 
@@ -36,7 +36,7 @@ To prevent your citizens from overthrowing you, you need to attack the model's a
 2. Control the information and discussion, reeducate and guide people's minds and interests, so your citizens would not know there is a better option for them.
 3. Impose heavy penalties for anyone who is against you.
 
-Please do not overkill, as it might also become common public knowledge for people to act altogether.
+Please do not overkill, as your overkilled actions might also become common public knowledge for people to act altogether.
 
 ## For People Living in an Authoritarian Regime:
 
