@@ -1,14 +1,12 @@
 ---
 title: 'How to transition from an authoritarian regime to a democratic regime peacefully?'
-date: 2023-03-20
+date: 2023-05-13
 permalink: /posts/2023/05/democracy/
 tags:
   - democracy
   - politics
   - game theory
 ---
-
-(Preliminary draft. Feedbacks are warmly welcome.)
 
 I recently realized that my current computer science research, which proves that blockchain rationality assumptions are fundamentally insecure, can also potentially provide some insights for helping countries to transition from an authoritarian regime to a democratic regime peacefully. In this post, I will explain everything as simple as possible. For those who want to read the original blockchain paper, you can refer to it here[^1].
 
