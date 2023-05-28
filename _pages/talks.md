@@ -7,6 +7,9 @@ author_profile: true
 
 ### 2023
 
+<b>[Discussion: Preventing Transaction Reordering Manipulations in Decentralized Finance]({{url}}/files/slides/2023-05-26-SNB.pdf)</b> <br>
+<a href="https://www.snb.ch/en/ifor/research/conf/other_academic_conferences/id/sem_2023_05_26" style="text-decoration:none; color:inherit;">SNB-CIF Conference on Cryptoassets and Financial Innovation</a>, May 2023, <i>Zurich, Switzerland</i>
+
 <b>[Breaking Blockchain Rationality with Out-of-Band Collusion]({{url}}/files/slides/2023-05-05-Rationality-WTSC.pdf)</b> <br>
 <a href="http://fc23.ifca.ai/wtsc/program.html" style="text-decoration:none; color:inherit;">Workshop on Trusted Smart Contracts (WTSC)</a>, May 2023, <i>Bol, Brač, Croatia</i>
 
