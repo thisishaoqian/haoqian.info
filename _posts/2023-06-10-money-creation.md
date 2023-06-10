@@ -1,5 +1,5 @@
 ---
-title: 'Our monetary system is doomed (1): How money is "printed" from thin air?'
+title: 'Our monetary system is doomed (1): How is money "printed" from thin air?'
 date: 2023-06-10
 permalink: /posts/2023/06/money/
 tags:
@@ -19,6 +19,12 @@ To understand how money is "printed" in the modern economy, one needs to underst
 Assume that someone has some paper money in his pocket and some deposits in his bank, and he does not have any loan; thus, his balance sheet would look like Figure 1(a). The items on his assets are currency and deposits, while his liabilities are solely his equity as he has no debt.
 
 Imagine that he is now taking a loan from his bank for his future house. This action would change both sides of his balance sheet. On the assets side, he has an additional deposit, whereas on the liabilities side, he has a loan from his bank, which is an obligation that he needs to settle in the future. His new balance sheet would look like Figure 1(b).
+
+<figure>
+<img src="{{url}}/images/blog/2023-06-10-individual.pdf" style="width:100%">
+<figcaption align = "center"><b>The balance sheet of an individual before and after taking the loan.</b></figcaption>
+</figure>
+
 
 ## How a commercial bank creates money from the thin air
 
@@ -46,7 +52,7 @@ The central bank does not set the money supply target directly but by controllin
 
 The money created by the commercial bank and the central bank is different. While an individual can spend money created by the commercial bank (digital money in the form of deposit in the commercial bank), a commercial bank can only use money created by the central bank to settle the transactions with other commercial banks or the central bank (as the money created by the commercial bank is just a digital number in its database). The money created by the central bank is called base money, whereas the money created by the commercial bank is named broad money.
 
-## How a central bank create money from thin air (Season 2)
+## How a central bank creates money from thin air (Season 2)
 
 After the financial crisis of 2007-2008, the above method is not powerful enough to provide enough base money for the market. The central bank began using a more radical method to inject money into the system by directly purchasing the assets from the market, a process called Quantitative Easing (QE).
 
