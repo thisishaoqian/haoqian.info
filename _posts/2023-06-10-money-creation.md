@@ -28,9 +28,14 @@ Imagine that he is now taking a loan from his bank for his future house. This ac
 
 ## How a commercial bank creates money from the thin air
 
-The majority of the money is created by commercial banks when making loans. By using the balance sheet, we can see this process. Whenever someone makes a loan from his commercial bank, he will see that his bank account is credited with a new deposit from his commercial bank and know that he has a new obligation that, in the future, he will have to settle this loan by paying the money back to his commercial bank (figure 1a to figure 1b).
+The majority of the money is created by commercial banks when making loans. By using the balance sheet, we can see this process. Whenever someone makes a loan from his commercial bank, he will see that his bank account is credited with a new deposit from his commercial bank and know that he has a new obligation that, in the future, he will have to settle this loan by paying the money back to his commercial bank (Figure 1).
 
-From the bank's point of view, its balance also changes. When the loan is made, the loan becomes the bank's asset, as the bank expects the borrower to repay the loan in the future. In contrast, the borrower's new deposit is the bank's liability, as he can demand to withdraw his deposit. 
+From the bank's point of view, its balance also changes. When the commercial bank grants the loan, the loan becomes the bank's asset, as the bank expects the borrower to repay the loan in the future, while the borrower's new deposit is the bank's liability, as he can demand to withdraw his deposit, demonstrated in Figure 2.
+
+<figure>
+<img src="{{url}}/images/blog/2023-06-10-commercial-bank.pdf" style="width:100%">
+<figcaption align = "center"><b>Figure 2: The balance sheet of a commercial bank before and after granting the loan.</b></figcaption>
+</figure>
 
 In this process, the money is created from thin air digitally. Commercial banks usually can profit from creating the new money as the loan is not free: the borrower needs to pay back more than the loan's principle (the interest). 
 
