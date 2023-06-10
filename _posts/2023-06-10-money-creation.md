@@ -16,13 +16,13 @@ This first post introduces how money is "printed" in our modern economy. I never
 
 To understand how money is "printed" in the modern economy, one needs to understand the balance sheet, which summarizes the financial balance of an entity. A balance sheet has two sides: Assets and liabilities. Assets record money or any valuable things belonging to the entity, while liabilities represent obligations of the entity. Furthermore, we add equity to represent the value owned by the entity to the liabilities side whenever there is an unbalanced mismatch between assets and liabilities. 
 
-Assume that someone has some paper money in his pocket and some deposits in his bank, and he does not have any loan; thus, his balance sheet would look like Figure 1(a). The items on his assets are currency and deposits, while his liabilities are solely his equity as he has no debt.
+Assume that someone has some paper money in his pocket and some deposits in his bank, and he does not have any loan; thus, his balance sheet would look like Figure 1 on the left. The items on his assets are currency and deposits, while his liabilities are solely his equity as he has no debt.
 
-Imagine that he is now taking a loan from his bank for his future house. This action would change both sides of his balance sheet. On the assets side, he has an additional deposit, whereas on the liabilities side, he has a loan from his bank, which is an obligation that he needs to settle in the future. His new balance sheet would look like Figure 1(b).
+Imagine that he is now taking a loan from his bank for his future house. This action would change both sides of his balance sheet. On the assets side, he has an additional deposit, whereas on the liabilities side, he has a loan from his bank, which is an obligation that he needs to settle in the future. His new balance sheet would look like Figure 1 on the right.
 
 <figure>
 <img src="{{url}}/images/blog/2023-06-10-individual.pdf" style="width:100%">
-<figcaption align = "center"><b>The balance sheet of an individual before and after taking the loan.</b></figcaption>
+<figcaption align = "center"><b>Figure 1: The balance sheet of an individual before and after taking the loan.</b></figcaption>
 </figure>
 
 
