@@ -50,7 +50,7 @@ When a commercial bank faces a liquidity issue that it cannot satisfy demands fr
 Similar to individual borrowing, when a commercial bank borrows money from the central bank, the bank's account in the central bank is credited with newly created money called reserve, which can be exchanged for currency in paper money or cash. Figure 3 from left to right presents the balance sheet before and after commercial bank borrows money from the central bank.
 
 <figure>
-<img src="{{url}}/images/blog/2023-06-10-commercial-bank-loan-individual.pdf" style="width:100%">
+<img src="{{url}}/images/blog/2023-06-10-commercial-bank-loan-central-bank.pdf" style="width:100%">
 <figcaption align = "center"><b>Figure 3: The balance sheet of a commercial bank before and after making a loan from the central bank and its repayment.</b></figcaption>
 </figure>
 
