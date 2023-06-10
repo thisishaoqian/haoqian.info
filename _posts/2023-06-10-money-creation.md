@@ -57,8 +57,8 @@ Similar to individual borrowing, when a commercial bank borrows money from the c
 From the central bank's point of view, the commercial bank loan is the central bank's asset, while the newly created reserve is the central bank's liability. Figure 4 from left to right illustrates the changes in the central bank's balance sheet. However, unlike the commercial bank, which needs to worry about its liabilities, the central bank does not need to worry about them at all, as the central bank can simply "print" money as much as it wishes in theory.
 
 <figure>
-<img src="{{url}}/images/blog/2023-06-10-central-bank-loan-commercial-bank" style="width:100%">
-<figcaption align = "center"><b>Figure 4: The balance sheet of a commercial bank before and after making a loan from the central bank.</b></figcaption>
+<img src="{{url}}/images/blog/2023-06-10-central-bank-loan-commercial-bank.pdf" style="width:100%">
+<figcaption align = "center"><b>Figure 4: The balance sheet of a central bank before and after granting a loan to a commercial bank and its repayment.</b></figcaption>
 </figure>
 
 Although a central bank can create infinite money, it has consequences on the market. If a central bank creates too much money relative to the goods and services produced on the market, leading to too much money chasing too few goods and services, this will result in inflation (prices of goods and services go up). A functional central bank usually wants to control the inflation rate to an acceptable range, but history is full of failures examples.
@@ -71,11 +71,16 @@ The money created by the commercial bank and the central bank is different. Whil
 
 After the financial crisis of 2007-2008, the above method is not powerful enough to provide enough base money for the market. The central bank began using a more radical method to inject money into the system by directly purchasing the assets from the market, a process called Quantitative Easing (QE).
 
-The central bank can purchase assets, such as government debts, company stocks, mortgages, etc., by creating new reserves. The money would eventually end up in commercial banks' assets, reducing the risk of the commercial bank (reducing the leverage ratio), as it now has more base money for its settlement with other commercial banks and the central bank.
+The central bank can purchase assets, such as government debts, company stocks, mortgages, etc., by creating new reserves. Figure 5 from left to right demonstrates this process. The money would eventually end up in commercial banks' assets, reducing the risk of the commercial bank (reducing the leverage ratio), as it now has more base money for its settlement with other commercial banks and the central bank.
+
+<figure>
+<img src="{{url}}/images/blog/2023-06-10-central-bank-QE-QT.pdf" style="width:100%">
+<figcaption align = "center"><b>Figure 5: The balance sheet of a central bank before and after a quantitative easing or quantitative tightening.</b></figcaption>
+</figure>
 
 By QE, the central bank can reduce the interest rate to 0% or even negative (commercial banks need to pay for keeping their reserve in the central bank accounts) by injecting an incredible amount of base money into the market. This radical policy helped to save our economy after the financial crisis.
 
-If the central bank abuses the QE by injecting too much money into the market, the prices of goods and services will increase (inflation). The central bank needs to intervene by decreasing the amount of money to reduce the inflation rate. The central bank then can sell its purchased assets to the market in exchange for the base money it created before, thus reducing the central bank's balance sheet and withdrawing money from the market, a process called Quantitative Tightening (QE). Figure X demonstrates this process. 
+If the central bank abuses the QE by injecting too much money into the market, the prices of goods and services will increase (inflation). The central bank needs to intervene by decreasing the amount of money to reduce the inflation rate. The central bank then can sell its purchased assets to the market in exchange for the base money it created before, thus reducing the central bank's balance sheet and withdrawing money from the market, a process called Quantitative Tightening (QT). Figure 5 from right to left demonstrates this process. 
 
 ## What is wrong with our monetary system? Debt-based money
 
