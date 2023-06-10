@@ -84,14 +84,15 @@ If the central bank abuses the QE by injecting too much money into the market, t
 
 ## What is wrong with our monetary system? Debt-based money
 
-The above process is how money is created in the modern economy. What's wrong with this system? If we look at the balance sheet of the FED (the central bank of the USA), we can observe that whenever there is a financial crisis, the FED needs to inject an even more tremendous amount of money into the market. Why?
+The above process is how money is created in the modern economy. What's wrong with this system? Let's look at the trend of the dollar's base money supply. We can observe that 
+the FED (Central Bank of the USA) needs to inject more base money into the market constantly, and if there are financial crises, the injections are even more tremendous. Why?
 
 <figure>
 <img src="{{url}}/images/blog/2023-06-10-FED.jpeg" style="width:100%">
-<figcaption align = "center"><b>Figure 6: The trend of dollar's base money.</b></figcaption>
+<figcaption align = "center"><b>Figure 6: The trend of dollar's base money supply.</b></figcaption>
 </figure>
 
-The reason lies down in the balance sheet. Whenever money is created, the system also creates its by-product, liability, in the form of debt. Any entity needs to repay the debt with interest eventually. However, whenever a debt is settled, the money and the principle of the debt are canceled out in the balance sheet, but not its interest. Since fiat money is only legal tender to settle the debt, the interest payment needs future money to repay, and the process of creating the future money induces more interest needed to repay, which requires even more money to settle the debt in the future resulting in even more interests needed to repay. This process goes forever and must go forever.
+One of the reasons is due to money creation. Whenever money is created, the system also creates its by-product, liability, in the form of debt. Any entity needs to repay the debt with interest eventually. However, whenever a debt is settled, the money and the principle of the debt are canceled out in the balance sheet, but not its interest. Since fiat money is only legal tender to settle the debt, the interest payment needs future money to repay, and the process of creating the future money induces more interest needed to repay, which requires even more money to settle the debt in the future, resulting in even more interests needed to repay. This process goes forever and must go forever.
 
 ## Money is not wealth
 
