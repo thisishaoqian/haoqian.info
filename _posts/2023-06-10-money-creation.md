@@ -33,7 +33,7 @@ The majority of the money is created by commercial banks when making loans. By u
 From the bank's point of view, its balance also changes. When the commercial bank grants the loan, the loan becomes the bank's asset, as the bank expects the borrower to repay the loan in the future, while the borrower's new deposit is the bank's liability, as he can demand to withdraw his deposit, demonstrated in Figure 2.
 
 <figure>
-<img src="{{url}}/images/blog/2023-06-10-commercial-bank.pdf" style="width:100%">
+<img src="{{url}}/images/blog/2023-06-10-commercial-bank-loan-individual.pdf" style="width:100%">
 <figcaption align = "center"><b>Figure 2: The balance sheet of a commercial bank before and after granting the loan to a client.</b></figcaption>
 </figure>
 
@@ -47,9 +47,19 @@ Usually, commercial banks cannot create too much money, as there is a risk assoc
 
 When a commercial bank faces a liquidity issue that it cannot satisfy demands from its client, it can borrow money from other commercial banks or directly from the central bank. Whenever a commercial bank borrows money from the central bank, the money is created from thin air, but this time, it is the central bank that "prints" them digitally. 
 
-Similar to individual borrowing, when a commercial bank borrows money from the central bank, the bank's account in the central bank is credited with newly created money called to reserve, which can be exchanged for currency in paper money or cash. Figure 3a and figure 3b presents the balance sheet before and after commercial bank borrows money from the central bank.
+Similar to individual borrowing, when a commercial bank borrows money from the central bank, the bank's account in the central bank is credited with newly created money called reserve, which can be exchanged for currency in paper money or cash. Figure 3 from left to right presents the balance sheet before and after commercial bank borrows money from the central bank.
 
-From the central bank's point of view, the commercial bank loan is the central bank's asset, while the newly created reserve is the central bank's liability. Figure 4a to Figure 4b illustrate the changes in the central bank's balance sheet. However, unlike the commercial bank, which needs to worry about its liabilities, the central bank does not need to worry about them at all, as the central bank can simply "print" money as much as it wishes in theory.
+<figure>
+<img src="{{url}}/images/blog/2023-06-10-commercial-bank-loan-individual.pdf" style="width:100%">
+<figcaption align = "center"><b>Figure 3: The balance sheet of a commercial bank before and after making a loan from the central bank.</b></figcaption>
+</figure>
+
+From the central bank's point of view, the commercial bank loan is the central bank's asset, while the newly created reserve is the central bank's liability. Figure 4 from left to right illustrates the changes in the central bank's balance sheet. However, unlike the commercial bank, which needs to worry about its liabilities, the central bank does not need to worry about them at all, as the central bank can simply "print" money as much as it wishes in theory.
+
+<figure>
+<img src="{{url}}/images/blog/2023-06-10-central-bank-loan-commercial-bank" style="width:100%">
+<figcaption align = "center"><b>Figure 4: The balance sheet of a commercial bank before and after making a loan from the central bank.</b></figcaption>
+</figure>
 
 Although a central bank can create infinite money, it has consequences on the market. If a central bank creates too much money relative to the goods and services produced on the market, leading to too much money chasing too few goods and services, this will result in inflation (prices of goods and services go up). A functional central bank usually wants to control the inflation rate to an acceptable range, but history is full of failures examples.
 
