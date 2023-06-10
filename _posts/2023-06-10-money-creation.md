@@ -34,12 +34,12 @@ From the bank's point of view, its balance also changes. When the commercial ban
 
 <figure>
 <img src="{{url}}/images/blog/2023-06-10-commercial-bank.pdf" style="width:100%">
-<figcaption align = "center"><b>Figure 2: The balance sheet of a commercial bank before and after granting the loan.</b></figcaption>
+<figcaption align = "center"><b>Figure 2: The balance sheet of a commercial bank before and after granting the loan to a client.</b></figcaption>
 </figure>
 
 In this process, the money is created from thin air digitally. Commercial banks usually can profit from creating the new money as the loan is not free: the borrower needs to pay back more than the loan's principle (the interest). 
 
-When the borrower repays his loan, the process is reverted, and the money disappears from the system. When the borrower uses his deposit to settle his loan, the deposit and loan disappear from the bank's balance sheet and the individual's. (Figure)
+When the borrower repays his loan, the process is reverted, and the money disappears. When the borrower uses his deposit to settle his loan, the deposit and loan disappear from the bank's balance sheet and the individual's, presented in Figure 2 from right to left.
 
 Usually, commercial banks cannot create too much money, as there is a risk associated with it. All clients of the bank can demand to withdraw money or transfer their deposits to other banks, and if a bank creates too much money (higher leverage ratio), the client's demands may not be satisfied. If this happens, the bank is in trouble and may need to declare bankruptcy. 
 
