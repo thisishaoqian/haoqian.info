@@ -47,7 +47,7 @@ Usually, commercial banks cannot create too much money, as there is a risk assoc
 
 When a commercial bank faces a liquidity issue that it cannot satisfy demands from its client, it can borrow money from other commercial banks or directly from the central bank. Whenever a commercial bank borrows money from the central bank, the money is created from thin air, but this time, it is the central bank that "prints" them digitally. 
 
-Similar to individual borrowing, when a commercial bank borrows money from the central bank, the bank's account in the central bank is credited with newly created money called reserve, which can be exchanged for currency in paper money or cash. Figure 3 from left to right presents the balance sheet before and after commercial bank borrows money from the central bank.
+Similar to individual borrowing, when a commercial bank borrows money from the central bank, the bank's account in the central bank is credited with newly created money called reserve, which can be exchanged for currency in banknotes or coins. Figure 3 from left to right presents the balance sheet before and after commercial bank borrows money from the central bank.
 
 <figure>
 <img src="{{url}}/images/blog/2023-06-10-commercial-bank-loan-central-bank.pdf" style="width:100%">
@@ -92,7 +92,7 @@ the FED (Central Bank of the USA) needs to inject more base money into the marke
 <figcaption align = "center"><b>Figure 6: The trend of dollar's base money supply.</b></figcaption>
 </figure>
 
-One of the reasons is due to money creation. Whenever money is created, the system also creates its by-product, liability, in the form of debt. Any entity has an obligation to repay the debt with interest. However, whenever a debt is settled, the money and the principle of the debt are canceled out in the balance sheet, but not its interest. Since fiat money is only legal tender to settle the debt, the interest payment needs future money to repay, and the process of creating the future money induces more interest needed to repay, which requires even more money to settle the debt in the future, resulting in even more interests needed to repay. This process goes forever and must go forever. 
+One of the reasons is due to money creation. Whenever money is created, the system also creates its by-product, liability, in the form of debt. Any entity has an obligation to repay the debt with interest. However, whenever a debt is settled, the money and the principle of the debt are canceled out in the balance sheet (money is essentially an IOU, and it disappears when the debt is repaid), but not its interest. Since fiat money is only legal tender to settle the debt, the interest payment needs future money to repay, and the process of creating the future money induces more interest needed to repay, which requires even more money to settle the debt in the future, resulting in even more interests needed to repay. This process goes forever and must go forever. 
 
 ## Money is not wealth
 
