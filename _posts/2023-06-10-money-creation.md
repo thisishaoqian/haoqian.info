@@ -21,7 +21,7 @@ Assume that someone has some paper money in his pocket and some deposits in his 
 Imagine that he is now taking a loan from his bank for his future house. This action would change both sides of his balance sheet. On the assets side, he has an additional deposit in his bank when the bank grants his loan, whereas, on the liabilities side, he has a loan from his bank, which is an obligation that he needs to repay in the future. His new balance sheet would look like Figure 1 on the right.
 
 <figure>
-<img src="{{url}}/images/blog/2023-06-10-individual.pdf" style="width:100%">
+<img src="{{url}}/images/blog/2023-06-10-individual.jpeg" style="width:100%">
 <figcaption align = "center"><b>Figure 1: The balance sheet of an individual before and after taking the loan and its repayment.</b></figcaption>
 </figure>
 
@@ -33,11 +33,11 @@ The majority of the money is created by commercial banks when making loans[^1]. 
 From the bank's point of view, its balance sheet also changes. When the commercial bank grants the loan, the loan becomes the bank's asset, as the bank expects the borrower to repay the loan in the future, while the borrower's new deposit is the bank's liability, as he can demand to withdraw his deposit, demonstrated in Figure 2 from left to right.
 
 <figure>
-<img src="{{url}}/images/blog/2023-06-10-commercial-bank-loan-individual.pdf" style="width:100%">
+<img src="{{url}}/images/blog/2023-06-10-commercial-bank-loan-individual.jpeg" style="width:100%">
 <figcaption align = "center"><b>Figure 2: The balance sheet of a commercial bank before and after granting the loan to a client.</b></figcaption>
 </figure>
 
-In this process, the money is created from thin air digitally. Commercial banks usually can profit from creating the new money as a loan is not free: the borrower needs to repay not only the principle but also the interest.
+In this process, the money is created from thin air digitally. Commercial banks usually can profit from creating the new money as a loan is not free: the borrower needs to repay not only the principal but also the interest.
 
 When the borrower repays his loan, the process is reverted, and the money disappears. When the borrower uses his deposit to repay his loan, the deposit and loan disappear from the bank's balance sheet and the individual's, presented in Figure 2 from right to left.
 
@@ -50,14 +50,14 @@ When a commercial bank faces a liquidity issue that it cannot satisfy demands fr
 Similar to individual borrowing, when a commercial bank borrows money from the central bank, the bank's account in the central bank is credited with newly created money called reserve, which can be exchanged for currency in banknotes or coins. Figure 3 from left to right presents the balance sheet before and after commercial bank borrows money from the central bank.
 
 <figure>
-<img src="{{url}}/images/blog/2023-06-10-commercial-bank-loan-central-bank.pdf" style="width:100%">
+<img src="{{url}}/images/blog/2023-06-10-commercial-bank-loan-central-bank.jpeg" style="width:100%">
 <figcaption align = "center"><b>Figure 3: The balance sheet of a commercial bank before and after making a loan from the central bank and its repayment.</b></figcaption>
 </figure>
 
 From the central bank's point of view, the commercial bank loan is the central bank's asset, while the newly created reserve is the central bank's liability. Figure 4 from left to right illustrates the changes in the central bank's balance sheet. However, unlike the commercial bank, which needs to worry about its liabilities, the central bank does not need to worry about them, as the central bank can simply "print" money as much as it wishes in theory.
 
 <figure>
-<img src="{{url}}/images/blog/2023-06-10-central-bank-loan-commercial-bank.pdf" style="width:100%">
+<img src="{{url}}/images/blog/2023-06-10-central-bank-loan-commercial-bank.jpeg" style="width:100%">
 <figcaption align = "center"><b>Figure 4: The balance sheet of a central bank before and after granting a loan to a commercial bank and its repayment.</b></figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ After the financial crisis of 2007-2008, the above method is not powerful enough
 The central bank can purchase assets, such as government debts, company stocks, mortgages, etc., by creating new reserves. Figure 5 from left to right demonstrates this process. The money would eventually end up in commercial banks' assets, reducing the risk of the commercial bank (reducing the leverage ratio), as it now has more base money for its settlement with other commercial banks and the central bank.
 
 <figure>
-<img src="{{url}}/images/blog/2023-06-10-central-bank-QE-QT.pdf" style="width:100%">
+<img src="{{url}}/images/blog/2023-06-10-central-bank-QE-QT.jpeg" style="width:100%">
 <figcaption align = "center"><b>Figure 5: The balance sheet of a central bank before and after a quantitative easing or quantitative tightening.</b></figcaption>
 </figure>
 
@@ -92,11 +92,11 @@ the FED (Central Bank of the USA) needs to inject more base money into the marke
 <figcaption align = "center"><b>Figure 6: The trend of dollar's base money supply.</b></figcaption>
 </figure>
 
-One of the reasons is due to money creation. Whenever money is created, the system also creates its by-product, liability, in the form of debt. Any entity has an obligation to repay the debt with interest. However, whenever a debt is settled, the money and the principle of the debt are canceled out in the balance sheet (money is essentially an IOU, and it disappears when the debt is repaid), but not its interest. Since fiat money is only legal tender to settle the debt, the interest payment needs future money to repay, and the process of creating the future money induces more interest needed to repay, which requires even more money to settle the debt in the future, resulting in even more interests needed to repay. This process goes forever and must go forever. 
+One of the reasons is due to money creation. Whenever money is created, the system also creates its by-product, liability, in the form of debt. Any entity has an obligation to repay the debt with interest. However, whenever a debt is settled, the money and the principal of the debt are canceled out in the balance sheet (money is essentially an IOU, and it disappears when the debt is repaid), but not its interest. Since fiat money is only legal tender to settle the debt, the interest payment needs future money to repay, and the process of creating the future money induces more interest needed to repay, which requires even more money to settle the debt in the future, resulting in even more interests needed to repay. This process goes forever and must go forever. 
 
 ## Money is not wealth
 
-From an individual point of view, money is wealth you can directly spend. However, from an entire system point of view, money is not wealth. When we sum up the balance sheets of all the entities in the system, the money we created is canceled with the principle of debt, but not the interests; thus, the money we have today, in fact, creates the negative net value of wealth for our society.
+From an individual point of view, money is wealth you can directly spend. However, from an entire system point of view, money is not wealth. When we sum up the balance sheets of all the entities in the system, the money we created is canceled with the principal of debt, but not the interests; thus, the money we have today, in fact, creates the negative net value of wealth for our society.
 
 But then, how is overall wealth created? In this series's next blog post, we will explore it.  
 
