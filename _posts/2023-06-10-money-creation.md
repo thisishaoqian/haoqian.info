@@ -37,9 +37,9 @@ From the bank's point of view, its balance sheet also changes. When the commerci
 <figcaption align = "center"><b>Figure 2: The balance sheet of a commercial bank before and after granting the loan to a client.</b></figcaption>
 </figure>
 
-In this process, the money is created from thin air digitally. Commercial banks usually can profit from creating the new money as a loan is not free: the borrower needs to repay not only the principal but also the interest.
+In this process, the money is created from thin air digitally. The borrower sees his deposit in his banking account. He can withdraw his money from an ATM, spend this money to purchase goods and services, or transfer his money to others.
 
-When the borrower repays his loan, the process is reverted, and the money disappears. When the borrower uses his deposit to repay his loan, the deposit and loan disappear from the bank's balance sheet and the individual's, presented in Figure 2 from right to left.
+Similarly, when the borrower repays his loan, the process is reverted, and the money disappears. Whenever the borrower uses his deposit to repay his loan, the deposit and loan disappear from the bank's balance sheet and the individual's, presented in Figure 2 from right to left. Note that, in practice, this process may not be symmetric shown in Figure 2. Commercial banks usually can profit from creating new money as a loan is not free: the borrower needs to repay not only the principal but also the interest.
 
 Usually, commercial banks cannot create too much money, as there is a risk associated with it. All clients of the bank can demand to withdraw money or transfer their deposits to other banks, and if a bank creates too much money (higher leverage ratio), the client's demands may not be satisfied. If this happens, the bank is in trouble and may need to declare bankruptcy. 
 
