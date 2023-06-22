@@ -14,7 +14,7 @@ The previous post introduces how money is created from thin air. In this post, w
 
 Traditional theory suggests that wealth is accumulated from the saving of income. Image a person constantly saving a certain percentage of his income; his total wealth is his accumulated saving. Considering the country or global perspective, the sum of all accumulated saving from each entity forms the total wealth. However, this theory needed to explain the following statistical data.
 
-## Global wealth grew significantly in 2020 when the world was affected by COVID.
+## Global wealth grew significantly during COVID.
 
 COVID has become a perfect natural experiment for testing this theory. Unintuitively, global wealth grew significantly in 2020 when economic activity took a severe hit by COVID. Specifically, the global GDP went down by -3.1% (suggesting the global income reduces by 3.1%), yet global wealth increased by 4.1%. Citation.
 
@@ -30,9 +30,9 @@ How about in the long run? Thanks to Thomas Piketty, we have the long-term data.
 
 The following explains how wealth can be decoupled from the GDP. It is worth emphasizing that I do not deny the channel that wealth is accumulated from saving but suggest an additional speculative channel creating wealth, which explains how it is possible that wealth growth can be irrelevant to GDP.
 
-Imagine a fictional community with ten identical houses. Ten households purchased those ten houses at the price of 100,000\$ initially. Assuming they do not take mortgages to buy those houses, thus 1,000,000\$ is the total wealth of this community. One day, one of the households sold his house for 200,000\$ to a speculator. This single transaction would influence other houses' values: the market would value other houses at 200,000\$, too, rather than 100,000\$. Suddenly, everyone in the community becomes richer, and the total wealth of the community increases from 1,000,000\$ to 2,000,000\$. In this fictional example, the houses remain the same, but an additional 1,000,000\$ worth of wealth is created from thin air. 
+Imagine a fictional community with ten identical houses. Ten households purchased those ten houses at the price of \\$100,000 initially. Assuming they do not take mortgages to buy those houses, thus \\$1,000,000 is the total wealth of this community. One day, one of the households sold his house for \\$200,000 to a speculator. This single transaction would influence other houses' values: the market would value other houses at \\$200,000, too, rather than \\$100,000. Suddenly, everyone in the community becomes richer, and the total wealth of the community increases from \\$1,000,000 to \\$2,000,000. In this fictional example, the houses remain the same, but an additional \\$1,000,000 worth of wealth is created from thin air. 
 
-The stock works similarly. Imagine a fictional company that went to IPO and issued 10,000,000 shares. If investors believe in the company and buy those shares at 10\$ per share for 1,000,000 shares. This action determines that the company is now worth 100,000,000\$. Those 100,000,000\$ is the wealth created from thin air and a net wealth gain for the society. 
+The stock works similarly. Imagine a fictional company that went to IPO and issued 10,000,000 shares. If investors believe in the company and buy those shares at 10\$ per share for 1,000,000 shares. This action determines that the company is now worth \\$100,000,000. Those \\$100,000,000 is the wealth created from thin air and a net wealth gain for the society. 
 
 If you think those two examples are too unrealistic, that the price changes must reflex some fundamentals of the assets, and do not believe that wealth can be created from thin air, consider the example of Bitcoin. Bitcoin, in a way, is just some digital information stored in some computers around the world. It has the intrinsic value of zero, as holding it does not generate any return. Thus, it is unsurprising that some economists predict that Bitcoin's value will eventually become zero. Yet, we never see Bitcoin value become zero. All the Bitcoin value is created from thin air.
 
