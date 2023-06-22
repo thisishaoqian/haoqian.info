@@ -16,16 +16,16 @@ Traditional theory suggests that wealth is accumulated from the saving of income
 
 ## Global wealth grew significantly during COVID.
 
-COVID has become a perfect natural experiment for testing this theory. Unintuitively, global wealth grew significantly in 2020 when economic activity took a severe hit by COVID. Specifically, the global GDP went down by -3.1%[^1] (suggesting the global income reduces by 3.1%), yet global wealth increased by 4.1%[^2].
+COVID has become a perfect natural experiment for testing this theory. Unintuitively, global wealth grew significantly in 2020 when economic activity took a severe hit by COVID. Specifically, the global GDP went down by -3.1%[^1] (suggesting the global income reduces by 3.1%, as GDP measures the total income), yet global wealth increased by 4.1%[^2].
 
 Figure 1 demonstrates the growth of wealth relative to GDP by country. Surprisingly, the countries most affected by COVID (measures in loss of GDP) did disproportionally well in wealth terms. Belgium, Canada, Singapore, and the United Kingdom, among the worst-affected countries with an average GDP loss of 7.1%, achieved unusually high wealth gains averaging 7.7%. 
 
 <figure>
-<img src="{{url}}/images/blog/2023-06-23-wealth-country.jpeg" style="width:70%">
+<img src="{{url}}/images/blog/2023-06-23-wealth-country.jpeg" style="width:80%">
 <figcaption align = "center"><b>Figure 1: Growth of household wealth relative to GDP 2020.</b></figcaption>
 </figure>
 
-Those numbers suggest that, at least in the short run, the wealth growth can be irrelevant to GDP (thus the income). Thus, it denies the theory that wealth is solely accumulated from saving.
+Those numbers suggest that, at least in the short run, the wealth growth can be irrelevant to GDP (and income). Thus, it denies the theory that wealth is solely accumulated from saving.
 
 ## Return on capital exceeds the growth rate.
 
@@ -42,7 +42,7 @@ The following explains how wealth can be decoupled from the GDP. It is worth emp
 
 Imagine a fictional community with ten identical houses. Ten households purchased those ten houses at the price of \\$100,000 initially. Assuming they do not take mortgages to buy those houses, thus \\$1,000,000 is the total wealth of this community. One day, one of the households sold his house for \\$200,000 to a speculator. This single transaction would influence other houses' values: the market would value other houses at \\$200,000, too, rather than \\$100,000. Suddenly, everyone in the community becomes richer, and the total wealth of the community increases from \\$1,000,000 to \\$2,000,000. In this fictional example, the houses remain the same, but an additional \\$1,000,000 worth of wealth is created from thin air. 
 
-The stock works similarly. Imagine a fictional company that went to IPO and issued 10,000,000 shares. If investors believe in the company and buy those shares at 10\$ per share for 1,000,000 shares. This action determines that the company is now worth \\$100,000,000. Those \\$100,000,000 is the wealth created from thin air and a net wealth gain for the society. 
+The stock works similarly. Imagine a fictional company that went to IPO and issued 10,000,000 shares. If investors believe in the company and buy those shares at \\$10 per share for 1,000,000 shares. This action determines that the company is now worth \\$100,000,000. Those \\$100,000,000 is the wealth created from thin air and a net wealth gain for the society. 
 
 If you think those two examples are too unrealistic, that the price changes must reflex some fundamentals of the assets, and do not believe that wealth can be created from thin air, consider the example of Bitcoin. Bitcoin, in a way, is just some digital information stored in some computers around the world. It has the intrinsic value of zero, as holding it does not generate any return. Thus, it is unsurprising that some economists predict that Bitcoin's value will eventually become zero. Yet, we never see Bitcoin value become zero. All the Bitcoin value is created from thin air.
 
@@ -60,4 +60,4 @@ Is there a limitation to this speculative wealth creation overall? How does mone
 
 [^1]: [World Full Year GDP Growth](https://tradingeconomics.com/world/full-year-gdp-growth)
 [^2]: [Global Wealth Report 2021](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2021-en.pdf)
-[^3]: There are different concepts of capital, But Piketty uses a broad definition of capital to be the same as wealth.
+[^3]: There are different concepts of capital, but Piketty uses a broad definition of capital to be the same as wealth.
