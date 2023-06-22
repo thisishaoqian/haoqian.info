@@ -21,7 +21,7 @@ COVID has become a perfect natural experiment for testing this theory. Unintuiti
 Figure 1 demonstrates the growth of wealth relative to GDP by country. Surprisingly, the countries most affected by COVID (measures in loss of GDP) did disproportionally well in wealth terms. Belgium, Canada, Singapore, and the United Kingdom, among the worst-affected countries with an average GDP loss of 7.1%, achieved unusually high wealth gains averaging 7.7%. 
 
 <figure>
-<img src="{{url}}/images/blog/2023-06-23-wealth-country.jpeg" style="width:100%">
+<img src="{{url}}/images/blog/2023-06-23-wealth-country.jpeg" style="width:70%">
 <figcaption align = "center"><b>Figure 1: Growth of household wealth relative to GDP 2020.</b></figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ Those numbers suggest that, at least in the short run, the wealth growth can be 
 
 ## Return on capital exceeds the growth rate.
 
-How about in the long run? Thanks to Thomas Piketty, we have the long-term data. In the long run, the return on capital (before the tax) is always higher than the GDP growth rate, as presented in Figure 2. There are different concepts of capital, But Piketty uses a broad definition of capital to be the same as wealth. Although Thomas Piketty presented this historical fact in his 696 pages of the book Capital in the Twenty-First Century, he still needs to explain why the return on capital can exceed the growth rate. 
+How about in the long run? Thanks to Thomas Piketty, we have the long-term data. In the long run, the return on capital[^3] (before the tax) is always higher than the GDP growth rate, as presented in Figure 2. Although Thomas Piketty presented this historical fact in his 696 pages of the book *Capital in the Twenty-First Century*, he still needs to explain why the return on capital can exceed the growth rate. 
 
 <figure>
 <img src="{{url}}/images/blog/2023-06-23-capital-return.jpeg" style="width:100%">
@@ -60,3 +60,4 @@ Is there a limitation to this speculative wealth creation overall? How does mone
 
 [^1]: [World Full Year GDP Growth](https://tradingeconomics.com/world/full-year-gdp-growth)
 [^2]: [Global Wealth Report 2021](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2021-en.pdf)
+[^3]: There are different concepts of capital, But Piketty uses a broad definition of capital to be the same as wealth.
