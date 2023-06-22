@@ -16,7 +16,7 @@ Traditional theory suggests that wealth is accumulated from the saving of income
 
 ## Global wealth grew significantly during COVID.
 
-COVID has become a perfect natural experiment for testing this theory. Unintuitively, global wealth grew significantly in 2020 when economic activity took a severe hit by COVID. Specifically, the global GDP went down by -3.1%(suggesting the global income reduces by 3.1%)[^1], yet global wealth increased by 4.1%[^2].
+COVID has become a perfect natural experiment for testing this theory. Unintuitively, global wealth grew significantly in 2020 when economic activity took a severe hit by COVID. Specifically, the global GDP went down by -3.1%[^1] (suggesting the global income reduces by 3.1%), yet global wealth increased by 4.1%[^2].
 
 Figure 1 demonstrates the growth of wealth relative to GDP by country. Surprisingly, the countries most affected by COVID (measures in loss of GDP) did disproportionally well in wealth terms. Belgium, Canada, Singapore, and the United Kingdom, among the worst-affected countries with an average GDP loss of 7.1%, achieved unusually high wealth gains averaging 7.7%. 
 
