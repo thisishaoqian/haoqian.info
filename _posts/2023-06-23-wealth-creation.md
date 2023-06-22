@@ -21,11 +21,11 @@ COVID has become a perfect natural experiment for testing this theory. Unintuiti
 Figure 1 demonstrates the growth of wealth relative to GDP by country. Surprisingly, the countries most affected by COVID (measures in loss of GDP) did disproportionally well in wealth terms. Belgium, Canada, Singapore, and the United Kingdom, among the worst-affected countries with an average GDP loss of 7.1%, achieved unusually high wealth gains averaging 7.7%. 
 
 <figure>
-<img src="{{url}}/images/blog/2023-06-23-wealth-country.jpeg" style="width:80%">
+<img src="{{url}}/images/blog/2023-06-23-wealth-country.jpeg" style="width:100%">
 <figcaption align = "center"><b>Figure 1: Growth of household wealth relative to GDP 2020.</b></figcaption>
 </figure>
 
-Those numbers suggest that, at least in the short run, the wealth growth can be irrelevant to GDP (and income). Thus, it denies the theory that wealth is solely accumulated from saving.
+Those numbers suggest that, at least in the short run, the wealth growth can be irrelevant to GDP (income). Thus, it denies the theory that wealth is solely accumulated from saving.
 
 ## Return on capital exceeds the growth rate.
 
