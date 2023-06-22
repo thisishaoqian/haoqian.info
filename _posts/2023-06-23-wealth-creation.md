@@ -60,4 +60,4 @@ Is there a limitation to this speculative wealth creation overall? How does mone
 
 [^1]: [World Full Year GDP Growth](https://tradingeconomics.com/world/full-year-gdp-growth)
 [^2]: [Global Wealth Report 2021](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2021-en.pdf)
-[^3]: There are different concepts of capital, but Piketty uses a broad definition of capital to be the same as wealth.
+[^3]: There are different definitions of capital, but Piketty uses a broad definition of capital to be the same as wealth.
