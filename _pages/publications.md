@@ -17,15 +17,15 @@ author_profile: true
 
 ### 2023
 
+<b>[F3B: A Low-Overhead Blockchain Architecture with Per-Transaction Front-Running Protection](https://arxiv.org/abs/2205.08529)</b> <br>
+<b>Haoqian Zhang</b>, Louis-Henri Merino, Ziyan Qu, Mahsa Bastankhah, Vero Estrada-Galinanes, Bryan Ford. <a href="{{url}}/files/23-F3B-AFT.pdf">PDF</a>, <a href="https://arxiv.org/pdf/2205.08529">Full Version</a>. <br>
+Advances in Financial Technologies (AFT 2023)
+
 <b>[Breaking Blockchain Rationality with Out-of-Band Collusion](https://arxiv.org/abs/2305.00554)</b> <br>
 <b>Haoqian Zhang</b>, Mahsa Bastankhah, Louis-Henri Merino, Vero Estrada-GaliÃśanes, and Bryan Ford. <a href="https://arxiv.org/abs/2305.00554">PDF</a>. <br>
 Workshop on Trusted Smart Contracts (WTSC 2023)
 
 ### 2022
-
-<b>[F3B: A Low-Overhead Blockchain Architecture with Per-Transaction Front-Running Protection](https://arxiv.org/abs/2205.08529)</b> <br>
-<b>Haoqian Zhang</b>, Louis-Henri Merino, Mahsa Bastankhah, Vero Estrada-Galinanes, Bryan Ford. <a href="https://arxiv.org/pdf/2205.08529">PDF</a>. <br>
-arXiv preprint
 
 <b>[Flash Freezing Flash Boys: Countering Blockchain Front-Running](https://ieeexplore.ieee.org/document/9951166)</b> <br>
 <b>Haoqian Zhang</b>, Louis-Henri Merino, Vero Estrada-GaliÃśanes, and Bryan Ford. <a href="{{url}}/files/22-F3B-DINPS.pdf">PDF</a>. <br>
