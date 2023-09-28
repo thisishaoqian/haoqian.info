@@ -40,7 +40,8 @@ One interesting protest that happened to me was in Jujuy Province, where local p
 <figcaption align = "center"><b>All the roads in Jujuy Province were blocked.</b></figcaption>
 </figure>
 
-An issue democracy alone cannot solve: seeking short-term interest.
+## An issue democracy alone cannot solve: seeking short-term interest
+
 I would argue the problem faced by Argentina is the incomplete democratic mechanism. People want to improve their living standards, which is understandable under the situation. Then, they will prefer and select the government that can promise welfare to people, and the only method the government can do is to increase its spending to provide it. However, the Argentina government already reached the point where it cannot increase its spending: It can print more Argentina pesos, but the currency will devalue even faster, leading to an even worse situation than before. At this point, Argentina is in a trap that lies more fundamentally: all entities can only seek short-term interest. 
 
 ## The next
