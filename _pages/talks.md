@@ -7,6 +7,9 @@ author_profile: true
 
 ### 2023
 
+<b>[F3B: A Low-Overhead Blockchain Architecture with Per-Transaction Front-Running Protection]({{url}}/files/slides/2023-10-25-F3B-AFT23.pdf)</b> <br>
+<a href="https://aftconf.github.io/aft23/program.html" style="text-decoration:none; color:inherit;">Advances in Financial Technologies (AFT)</a>, Oct 2023, <i>Princeton, NJ, USA</i>
+
 <b>[Discussion: Preventing Transaction Reordering Manipulations in Decentralized Finance]({{url}}/files/slides/2023-05-26-SNB.pdf)</b> <br>
 <a href="https://www.snb.ch/en/ifor/research/conf/other_academic_conferences/id/sem_2023_05_26" style="text-decoration:none; color:inherit;">SNB-CIF Conference on Cryptoassets and Financial Innovation</a>, May 2023, <i>Zurich, Switzerland</i>
 
