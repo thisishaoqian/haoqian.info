@@ -18,7 +18,7 @@ author_profile: true
 ### 2023
 
 <b>[F3B: A Low-Overhead Blockchain Architecture with Per-Transaction Front-Running Protection](https://arxiv.org/abs/2205.08529)</b> <br>
-<b>Haoqian Zhang</b>, Louis-Henri Merino, Ziyan Qu, Mahsa Bastankhah, Vero Estrada-Galinanes, Bryan Ford. <a href="{{url}}/files/23-F3B-AFT.pdf">PDF</a>, <a href="https://arxiv.org/pdf/2205.08529">Full Version</a>. <br>
+<b>Haoqian Zhang</b>, Louis-Henri Merino, Ziyan Qu, Mahsa Bastankhah, Vero Estrada-Galinanes, Bryan Ford. <a href="{{url}}/files/23-F3B-AFT.pdf">PDF</a>, <a href="https://arxiv.org/pdf/2205.08529">Full Version</a>, <a href="https://www.youtube.com/watch?v=g1qyFeDvMSY">Video</a>. <br>
 Advances in Financial Technologies (AFT 2023)
 
 <b>[Breaking Blockchain Rationality with Out-of-Band Collusion](https://arxiv.org/abs/2305.00554)</b> <br>
