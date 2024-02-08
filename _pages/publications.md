@@ -15,6 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+### 2024
+
+<b>[ZeroAuction: Zero-Deposit Sealed-bid Auction via Delayed Execution]({{url}}/files/24-ZeroAuction-WTSC.pdf)</b> <br>
+<b>Haoqian Zhang</b>, Michelle Yeo, Vero Estrada-GaliÃśanes, and Bryan Ford.  <br>
+Workshop on Trusted Smart Contracts (WTSC 2023) <br>
+<a href="{{url}}/files/24-ZeroAuction-WTSC.pdf">PDF</a>.
+
 ### 2023
 
 <b>[F3B: A Low-Overhead Blockchain Architecture with Per-Transaction Front-Running Protection](https://arxiv.org/abs/2205.08529)</b> <br>
