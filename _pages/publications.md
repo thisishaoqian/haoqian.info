@@ -19,7 +19,7 @@ author_profile: true
 
 <b>[ZeroAuction: Zero-Deposit Sealed-bid Auction via Delayed Execution]({{url}}/files/24-ZeroAuction-WTSC.pdf)</b> <br>
 <b>Haoqian Zhang</b>, Michelle Yeo, Vero Estrada-GaliÃśanes, and Bryan Ford.  <br>
-Workshop on Trusted Smart Contracts (WTSC 2023) <br>
+Workshop on Trusted Smart Contracts (WTSC 2024) <br>
 <a href="{{url}}/files/24-ZeroAuction-WTSC.pdf">PDF</a>.
 
 ### 2023
