@@ -1,6 +1,6 @@
 ---
-title: "Faces of Students"
-excerpt: "6th ArtBrut Biennial: Faces"
+title: "Students! Which one is you?"
+excerpt: "6th Art Brut Biennial: Faces"
 header:
   teaser: ../images/gallery/2024-6th-art-brut-biennial-faces/students.jpeg
 gallery:
