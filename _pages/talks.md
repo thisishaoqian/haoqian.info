@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+### 2024
+
+<b>[ZeroAuction: Zero-Deposit Sealed-bid Auction via Delayed Execution]({{url}}/files/slides/2024-03-08-ZeroAuction-WTSC24.pdf)</b> <br>
+<a href="http://fc24.ifca.ai/wtsc/program.html" style="text-decoration:none; color:inherit;">Workshop on Trusted Smart Contracts (WTSC)</a>, March 2024, <i>Willemstad, Curaçao</i>
+
 ### 2023
 
 <b>[F3B: A Low-Overhead Blockchain Architecture with Per-Transaction Front-Running Protection]({{url}}/files/slides/2023-10-25-F3B-AFT23.pdf)</b> <br>

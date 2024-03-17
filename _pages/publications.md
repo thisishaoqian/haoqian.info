@@ -24,7 +24,7 @@ Louis-Henri Merino, Alaleh Azhir, <b>Haoqian Zhang</b>, Simone Colombo, Bernhard
 <b>[ZeroAuction: Zero-Deposit Sealed-bid Auction via Delayed Execution](https://eprint.iacr.org/2024/189.pdf)</b> <br>
 <b>Haoqian Zhang</b>, Michelle Yeo, Vero Estrada-GaliÃśanes, and Bryan Ford.  <br>
 Workshop on Trusted Smart Contracts (WTSC 2024) <br>
-<a href="https://eprint.iacr.org/2024/189.pdf">PDF</a>, <a href="https://haoqian.info/files/slides/2024-03-08-ZeroAuction-WTSC24.pdf">Slides</a>, <a href="https://youtu.be/N022EeabN30?si=yFYrr3WEHB1a_Tm0">Video</a>.
+<a href="https://eprint.iacr.org/2024/189.pdf">PDF</a>, <a href="{{url}}/files/slides/2024-03-08-ZeroAuction-WTSC24.pdf">Slides</a>, <a href="https://youtu.be/N022EeabN30?si=yFYrr3WEHB1a_Tm0">Video</a>.
 
 ### 2023
 
