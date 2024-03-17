@@ -17,6 +17,10 @@ author_profile: true
 
 ### 2024
 
+<b>[E-Vote Your Conscience: Perceptions of Coercion and Vote Buying, and the Usability of Fake Credentials in Online Voting](https://bford.info/pub/sec/trip-usability/)</b> <br>
+Louis-Henri Merino, Alaleh Azhir, <b>Haoqian Zhang</b>, Simone Colombo, Bernhard Tellenbach, Vero Estrada-Galiñanes, Bryan Ford. <br>
+45th IEEE Symposium on Security and Privacy (S&P 2024) <br>
+
 <b>[ZeroAuction: Zero-Deposit Sealed-bid Auction via Delayed Execution](https://eprint.iacr.org/2024/189.pdf)</b> <br>
 <b>Haoqian Zhang</b>, Michelle Yeo, Vero Estrada-GaliÃśanes, and Bryan Ford.  <br>
 Workshop on Trusted Smart Contracts (WTSC 2024) <br>
