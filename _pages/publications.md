@@ -15,11 +15,20 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+### 2025
+
+<b>[Rational Censorship Attack: Breaking Blockchain with a Blackboard](https://arxiv.org/pdf/2507.01453)</b> <br>
+Michelle Yeo, <b>Haoqian Zhang</b>. <br>
+The 6th International Conference on Mathematical Research for Blockchain Economy (MARBLE 2025) <br>
+<b> Best Student Paper Award </b> <br>
+<a href="https://arxiv.org/pdf/2507.01453">PDF</a>, <a href="{{url}}/files/slides/2025-07-01-marble25.pdf">Slides</a>.
+
 ### 2024
 
 <b>[E-Vote Your Conscience: Perceptions of Coercion and Vote Buying, and the Usability of Fake Credentials in Online Voting](https://bford.info/pub/sec/trip-usability/)</b> <br>
 Louis-Henri Merino, Alaleh Azhir, <b>Haoqian Zhang</b>, Simone Colombo, Bernhard Tellenbach, Vero Estrada-Galiñanes, Bryan Ford. <br>
 45th IEEE Symposium on Security and Privacy (S&P 2024) <br>
+<a href="https://arxiv.org/pdf/2404.12075">PDF</a>.
 
 <b>[ZeroAuction: Zero-Deposit Sealed-bid Auction via Delayed Execution](https://eprint.iacr.org/2024/189.pdf)</b> <br>
 <b>Haoqian Zhang</b>, Michelle Yeo, Vero Estrada-GaliÃśanes, and Bryan Ford.  <br>
