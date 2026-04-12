@@ -23,6 +23,11 @@ The 6th International Conference on Mathematical Research for Blockchain Economy
 <b> Best Student Paper Award </b> <br>
 <a href="https://arxiv.org/pdf/2507.01453">PDF</a>, <a href="{{url}}/files/slides/2025-07-01-marble25.pdf">Slides</a>.
 
+<b>[TRIP: Coercion-resistant Registration for E-Voting with Verifiability and Usability in Votegral](https://dl.acm.org/doi/pdf/10.1145/3731569.3764837)</b> <br>
+Louis-Henri Merino, Simone Colombo, Rene Reyes, Alaleh Azhir, Shailesh Mishra, Pasindu Tennage, Mohammad Amin Raeisi, <b>Haoqian Zhang</b>, Jeff R Allen, Bernhard Tellenbach, Vero Estrada-Galiñanes, Bryan Ford. <br>
+Symposium on Operating Systems Principles (SOSP 2025) <br>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3731569.3764837">PDF</a>.
+
 ### 2024
 
 <b>[E-Vote Your Conscience: Perceptions of Coercion and Vote Buying, and the Usability of Fake Credentials in Online Voting](https://bford.info/pub/sec/trip-usability/)</b> <br>
